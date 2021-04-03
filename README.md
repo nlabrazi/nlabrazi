@@ -1,6 +1,7 @@
 <h2 align="center">Hey there 👋, I'm <a href="http://www.nabil-labrazi.com/">Nabil</a></h2>
 <br>
 <p>I'm a fullstack developer based in Paris looking for a job 🎶
+  <br>
 In the meanwhile I am working on some side projects, and I used to be a teacher assistant <strong><a href="https://lewagon.com/">@LeWagon</a></strong>.</p>
 
 <p>
