@@ -2,7 +2,7 @@
 <br>
 <p>I'm a fullstack developer based in Paris looking for a job 🎶
   <br>
-In the meanwhile I am working on some side projects, and I used to be a teacher assistant <strong><a href="https://lewagon.com/">@LeWagon</a></strong>.</p>
+In the meanwhile I am working on some side projects, and I used to be a teacher assistant <strong><a href="https://www.lewagon.com/">@LeWagon</a></strong>.</p>
 
 <p>
   <a href="https://www.ruby-lang.org/en/"><img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="ruby" width="50" height="50"/></a>
