@@ -11,7 +11,7 @@ In the meanwhile I am working on some side projects, and I used to be a teacher 
   <a href="https://reactjs.org/"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" alt="react" width="50" height="50"/></a>
 <br>
 <p>
-  <a href="http://www.nabil-labrazi.com"><img src="https://img.shields.io/badge/-nabillabrazi.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
+  <a href="http://www.nabil-labrazi.fr"><img src="https://img.shields.io/badge/-nabillabrazi.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
   <a href="https://fr.linkedin.com/in/nabil-labrazi-a0a97a1a6"><img src="https://img.shields.io/badge/-@nabillabrazi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
   <img align="right" src="https://img.devrant.com/devrant/rant/r_280189_VvYDY.gif" />
 </p>
