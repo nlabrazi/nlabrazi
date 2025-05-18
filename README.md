@@ -1,34 +1,52 @@
-<h2 align="center">Hey there 👋, I'm <a href="http://www.nabil-labrazi.com/">Nabil</a></h2>
-<br>
-<p>I'm a fullstack developer based in Paris looking for a job 🎶
-  <br>
-In the meanwhile I am working on some side projects, and I used to be a teacher assistant <strong><a href="https://www.lewagon.com/">@LeWagon</a></strong>.</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <p>ich bin hacking.</p>
+</div>
 
-<p>
-  <a href="https://www.ruby-lang.org/en/"><img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="ruby" width="50" height="50"/></a>
-  <a href="https://rubyonrails.org/"><img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/development-ruby_on_rails.png" alt="rails" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
-  <a href="https://reactjs.org/"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" alt="react" width="50" height="50"/></a>
-<br>
-<p>
-  <a href="http://www.nabil-labrazi.fr"><img src="https://img.shields.io/badge/-nabillabrazi.fr-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
-  <a href="https://fr.linkedin.com/in/nabil-labrazi-a0a97a1a6"><img src="https://img.shields.io/badge/-@nabillabrazi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
-  <img align="right" src="https://img.devrant.com/devrant/rant/r_280189_VvYDY.gif" />
-</p>
+<div id="badges" align="center">
+  <a href="https://twitter.com/Nabil71405502"><img src="https://img.shields.io/badge/(twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>&nbsp;
+  <a href="https://nabil-labrazi.fr/"><img src="https://img.shields.io/badge/nabil%20labrazi.fr-7268F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nabil-labrazi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
 
-<br>
+----
 
-<h2>⚡️ Random Facts</h2>
-<ul>
-  <li>🧭   I’m currently looking for fullstack opportunity in Paris/remote on an exciting project.</li>
-  <li>🃏   Coming from IT Support & Data Management, I learned early on the importance of having a full overview of the needs regarding an overall project.</li>
-  <li>💻   Most of my projects are available on <a href="https://github.com/nlabrazi?tab=repositories">Github</a>.</li>
-  <li>💬   Ping me if you want to talk about <strong>Muay Thaï, video games, movies or travels.</strong>.</li>
-</ul>
+### 👋 Hello
 
-<br>
+You'll find that my life can be summed up in approximately 10ish bullet points.
 
-## &#x1f4c8; GitHub Stats
+- 💍 Married and living in peace
+- 👶 Have a wonderful baby
+- 🏡 I live in Limay and work in Paris and at home
+- 🧴 I'm the founder of [Argan d'ici](https://argandici.com)
+- 🥊 I'm a former (Muay Thaï) [Amateur Figther](https://www.pst92.com/2019-2020) now retired
+- 💪 I train now home bodybuilding
+- 🎮 I'm also a big fan of video games, let's catch up on [Twitch](https://www.twitch.tv/zref)
+- 🧑‍💻 I used to live in Puteax where I got my "tech" sealegs
+- 📓 After degree I used to be a teacher assistant [Le Wagon](https://www.lewagon.com/)
+- 🌽 I was raised in rural Normandie (in the middle of almost a cornfield)
+- 📫 How to reach me: [nabil-labrazi.fr](https://nabil-labrazi.fr/)
+- 😄 Pronouns: He/Him/His
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlabrazi)](https://github.com/nlabrazi/github-readme-stats)
-[![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlabrazi)](https://github.com/nlabrazi/github-readme-stats)
+
+----
+
+### 💻 Tools
+
+These are some of the tools I love and use everyday.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+<img src="https://iconduck.com/icons/94515/kibana" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
+<img src="https://grafana.com/static/img/menu/grafana2.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg" title="ohmyzsh" alt="ohmyzsh" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/vercel" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+<img src="https://railway.app/favicon.ico" title="Railway" alt="Railway" width="40" height="40"/>&nbsp;
+<img src="https://logowik.com/content/uploads/images/mailgun.jpg" title="Mailgun" alt="Mailgun" width="40" height="40"/>&nbsp;
+<img src="https://logowik.com/content/uploads/images/supabase-icon-logo-vector-71414.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
