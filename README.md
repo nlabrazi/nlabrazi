@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://twitter.com/Nabil71405502"><img src="https://img.shields.io/badge/(twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>&nbsp;
-  <a href="https://nabil-labrazi.fr/"><img src="https://img.shields.io/static/v1?label=&message=nabil-labrazi.fr&color=7268F0&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge" /></a>&nbsp;
+  <a href="https://nabster.dev/"><img src="https://img.shields.io/static/v1?label=&message=nabster.dev&color=7268F0&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/nabil-labrazi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
@@ -26,28 +26,23 @@ You'll find that my life can be summed up in approximately 10 bullet points.
 - 🧑‍💻 I used to live in Puteaux where I got my "tech" sealegs
 - 📓 After degree I used to be a teacher assistant @[Le Wagon](https://www.lewagon.com/)
 - 🌽 I was raised in rural Normandie (in the middle of almost a cornfield)
-- 📫 How to reach me: [nabil-labrazi.fr](https://nabil-labrazi.fr/)
+- 📫 How to reach me: [nabster.dev](https://nabster.dev/)
 
 
 ----
 
-### 💻 Tools
+Here’s a quick overview of the technologies and tools I work with on a daily basis.
 
-These are some of the tools I love and use everyday.
+### 💻 Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ohmyzsh/ohmyzsh-original.svg" title="ohmyzsh" alt="ohmyzsh" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" title="Railway" alt="Railway" width="40" height="40"/>
-</p>
+[![Stack](https://skillicons.dev/icons?i=ts,angular,vue,nuxtjs,nestjs,ruby,rails,react,tailwind&perline=9)](https://skillicons.dev)
+
+---
+
+### 🛠️ Tools
+
+[![Tools](https://skillicons.dev/icons?i=docker,redis,postgres,supabase,heroku&perline=6)](https://skillicons.dev)
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
